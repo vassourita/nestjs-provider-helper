@@ -4,6 +4,14 @@ This helper creates a provider structure for NestJS modules in a opinionated way
 
 The ProviderHelper class exposes static methods to create ClassProviders, FactoryProviders, ExistingProviders and ValueProviders
 
+### Installing
+
+```sh
+npm install nestjs-provider-helper
+# or
+yarn add nestjs-provider-helper
+```
+
 ### ClassProvider example
 
 ```ts
